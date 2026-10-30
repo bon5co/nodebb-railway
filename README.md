@@ -1,5 +1,9 @@
 # nodebb-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nodebb-or-just-updated-discourse-alterna?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [NodeBB template](https://railway.com/deploy/nodebb-or-just-updated-discourse-alterna?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for [NodeBB](https://nodebb.org) 4.15.1 — the open-source forum.
 
 Published as `ghcr.io/bon5co/nodebb-railway`. What it adds over `ghcr.io/nodebb/nodebb`:
